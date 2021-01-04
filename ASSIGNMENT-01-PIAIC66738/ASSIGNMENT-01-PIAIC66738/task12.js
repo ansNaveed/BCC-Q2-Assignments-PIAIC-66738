@@ -1,0 +1,3 @@
+as values are given for both $ and riyyals so in single expression we'll solve it directly 
+var Total=(10*155)+(25*41);
+document.write("Total Currency in PKR is : "+Total);
